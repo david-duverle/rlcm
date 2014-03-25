@@ -1,0 +1,9 @@
+Package: rlcm
+Type: Package
+Title: R wrapper around LCM tool for frequent itemset mining
+Version: 0.1
+Date: 2014-03-20
+Author: Dave duVerle (original C code: Takeaki Uno)
+Maintainer: Dave duVerle <dave.duverle@aist.go.jp>
+Description: Mine frequent itemsets
+License: GPL

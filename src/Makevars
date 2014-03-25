@@ -1,0 +1,3 @@
+PKG_CFLAGS=-Wno-format-security -Wno-constant-conversion -O3 -Os
+
+all: $(SHLIB)
